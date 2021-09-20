@@ -1,0 +1,53 @@
+a{
+	color:indianred;
+	font-size:20px;
+}
+a:hover{
+	background: white;
+	border:2.5px solid indianred;
+	border-radius: 100px;
+	padding: 5px;
+	font-
+	transition: 1s all;
+}
+#aa{
+	color:hotpink;
+}
+#aa:hover{
+	background: white;
+	border:2.5px solid hotpink;
+	border-radius: 100px;
+	padding: 5px;
+	transition: 1s all;
+}
+#aaa{
+	color:royalblue;
+}
+#aaa:hover{
+	background: white;
+	border:2.5px solid royalblue;
+	border-radius: 100px;
+	padding: 5px;
+	transition: 1s all;
+}
+.firstclass{
+	color:yellow;
+}
+.Secondclass{
+	color:blue;
+}
+.opa{
+	color:white;
+	background:black;
+	border:5px solid black;
+	margin:15px;
+	width:200px;
+	
+}
+.opa:hover{
+	transform: ;
+	transition: 1s all;
+}
+body{
+	background-image: url(https://sun9-27.userapi.com/impg/pvLzbemBTGi14DXqv9XHFC08_JytbaqDWf4jaA/gS6KT5-7P_o.jpg?size=804x640&quality=96&sign=ad67d52ec8fa1838a84b7ca53d4820f3&type=album);
+}
